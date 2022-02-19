@@ -1,0 +1,1 @@
+<title>Michael Ball - mball.net</title><center><img src="masjid-hassan-II.jpg" alt="Masjid Hassan II in Casablanca" style="height:95%;padding-top:8px;padding-bottom:2px"><br/><i style="font-family:sans-serif;font-size:85%">hello@mball.net</i></center>
